@@ -8,7 +8,7 @@
 <!-- Animated Typing -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=29ABE2&center=true&vCenter=true&width=700&lines=Track+Income+%26+Expenses;Visualize+Your+Finances;Set+Goals.+Crush+Them.;Built+with+Bootstrap+%2B+Tailwind+%2B+ApexCharts" alt="Typing SVG" />
 
-<br/><br/>
+<br/><br/> 
 
 <!-- Badges Row 1 -->
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
